@@ -1,0 +1,4 @@
+# No details about the Editor (incl. Env-Variables)
+.vscode/*
+obj/*
+bin/*
